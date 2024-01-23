@@ -27,7 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonystark3110&" alt="tonystark3110" /></p>
 
-<img src="https://raw.githubusercontent.com/tonystark3110/tonystark3110/output/snake.svg" alt="Snake animation" />
+
 
 
 
