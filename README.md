@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonystark3110&label=Profile%20views&color=0e75b6&style=flat" alt="tonystark3110" /> </p>
 
-- 🌱 I’m currently learning **Spark**
+- 🌱 I’m currently learning **Langchain**
 
 - 👯 I’m looking to collaborate on **Machine learning Projects**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **AI**
 
 - 📫 How to reach me **manikandan311001@gmail.com**
 
