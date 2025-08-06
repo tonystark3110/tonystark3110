@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonystark3110&label=Profile%20views&color=0e75b6&style=flat" alt="tonystark3110" /> </p>
 
-- 🌱 I’m currently learning **Langchain**
+- 🌱 I’m currently learning **Agents**
 
 - 👯 I’m looking to collaborate on **Machine learning Projects**
 
