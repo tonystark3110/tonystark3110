@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonystark3110&label=Profile%20views&color=0e75b6&style=flat" alt="tonystark3110" /> </p>
 
-- 🌱 I’m currently learning **Agents**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👯 I’m looking to collaborate on **Machine learning Projects**
 
-- 🤝 I’m looking for help with **AI**
+- 🤝 I’m looking for help with **AI Research opportunities**
 
-- 📫 How to reach me **manikandan311001@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
