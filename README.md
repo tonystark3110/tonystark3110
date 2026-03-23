@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manikandan Meenakshi Sundaram</h1>
-<h3 align="center">A passionate Data analytics student in Boston</h3>
+<h3 align="center">A passionate AI/ML student in Boston</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonystark3110&label=Profile%20views&color=0e75b6&style=flat" alt="tonystark3110" /> </p>
 
