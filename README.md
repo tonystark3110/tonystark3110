@@ -1,28 +1,79 @@
-<h1 align="center">Hi 👋, I'm Manikandan Meenakshi Sundaram</h1>
-<h3 align="center">A passionate AI/ML student in Boston</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonystark3110&label=Profile%20views&color=0e75b6&style=flat" alt="tonystark3110" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mani+%F0%9F%91%8B;Building+Agentic+AI+Systems;Multi-Agent+%7C+LLMs+%7C+Infrastructure" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **Agentic AI**
+<br/>
 
-- 👯 I’m looking to collaborate on **Machine learning Projects**
+<img src="https://komarev.com/ghpvc/?username=tonystark3110&style=flat-square&color=6366f1&label=Profile+Views" />
 
-- 🤝 I’m looking for help with **AI Research opportunities**
+</div>
 
+---
 
+### About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/manikandan3110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manikandan3110" height="30" width="40" /></a>
-<a href="https://instagram.com/man._.i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="man._.i" height="30" width="40" /></a>
-<a href="https://discord.gg/man._.i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="man._.i" height="30" width="40" /></a>
-</p>
+I'm a graduate student at **Northeastern University**, Boston — focused on building real infrastructure for multi-agent AI systems. Not just prototyping — actually deploying, scaling, and making agents talk to each other reliably.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+Currently building **agentns** — an open-source service discovery sidecar for AI agents. Think DNS, but for multi-agent systems.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonystark3110&show_icons=true&locale=en&layout=compact" alt="tonystark3110" /></p>
+- Studying **AI & ML** at Northeastern
+- Building **[agentns](https://github.com/DataWorksAI-com/Dynamic-aiagent-naming-service)** — dynamic agent name service for multi-agent systems
+- Working with **LangGraph, A2A protocol, LLM orchestration**
+- Open to collaborating on agentic AI, LLM infra, and real-world ML systems
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonystark3110&show_icons=true&locale=en" alt="tonystark3110" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonystark3110&" alt="tonystark3110" /></p>
+### Tech Stack
+
+```python
+stack = {
+    "languages":   ["Python", "JavaScript", "SQL"],
+    "ai_ml":       ["LangGraph", "LangChain", "OpenAI", "PyTorch", "scikit-learn"],
+    "backend":     ["FastAPI", "Flask", "Django"],
+    "databases":   ["MongoDB", "PostgreSQL", "MySQL"],
+    "infra":       ["Docker", "GCP", "systemd", "nginx"],
+    "current":     ["Multi-agent systems", "Agentic AI", "Service discovery"]
+}
+```
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=tonystark3110&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonystark3110&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=tonystark3110&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+</div>
+
+---
+
+### Featured Project
+
+**[agentns](https://github.com/DataWorksAI-com/Dynamic-aiagent-naming-service)** — Agent Name Service  
+Service discovery for multi-agent AI systems. Agents register, orchestrators resolve. Health-aware, geo-routed, protocol-agnostic.
+
+```bash
+docker run -p 8200:8200 manikandan3110/agentns:latest
+```
+
+---
+
+### Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-manikandan3110-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/manikandan3110)
+[![Docker Hub](https://img.shields.io/badge/Docker_Hub-manikandan3110-2496ed?style=flat-square&logo=docker)](https://hub.docker.com/u/manikandan3110)
+[![Email](https://img.shields.io/badge/Email-northeastern-d14836?style=flat-square&logo=gmail)](mailto:meenakshisundaram.m@northeastern.edu)
+
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+</div>
