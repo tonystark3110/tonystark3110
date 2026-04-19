@@ -16,6 +16,7 @@ I'm a graduate student at **Northeastern University**, Boston  focused on buildi
 
 Currently building **dynamic agent naming service** — an open-source service discovery sidecar for AI agents. Think DNS, but for multi-agent systems.
                    **MBTA Transit Conversational Intelligence** - A multi-agent system for real-time Boston transit assistance. Three specialized AI agents (Alerts, Trip Planner, Stop Finder) coordinated by a LangGraph                                                                      orchestrator, deployed across cloud servers with service discovery 
+                   working on converting this multiagent system as a skill for clawbot
 
 - Studying **AI & ML** at Northeastern
 - Building **[agentns](https://github.com/DataWorksAI-com/Dynamic-aiagent-naming-service)** — dynamic agent name service for multi-agent systems
