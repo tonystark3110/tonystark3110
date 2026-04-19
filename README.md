@@ -12,15 +12,12 @@
 
 ### About Me
 
-I'm a graduate student at **Northeastern University**, Boston  focused on building real infrastructure for multi-agent AI systems.Not just prototyping — actually deploying, scaling, and making agents talk to each other reliably.
-
-Currently building **dynamic agent naming service** — an open-source service discovery sidecar for AI agents. Think DNS, but for multi-agent systems.
-                   **MBTA Transit Conversational Intelligence** - A multi-agent system for real-time Boston transit assistance. Three specialized AI agents (Alerts, Trip Planner, Stop Finder) coordinated by a LangGraph                                                                      orchestrator, deployed across cloud servers with service discovery 
-                   working on converting this multiagent system as a skill for clawbot
+Graduate student at **Northeastern University**, Boston — building real infrastructure for multi-agent AI systems. Not just prototyping, actually deploying, scaling, and making agents talk to each other reliably.
 
 - Studying **AI & ML** at Northeastern
-- Building **[agentns](https://github.com/DataWorksAI-com/Dynamic-aiagent-naming-service)** — dynamic agent name service for multi-agent systems
-- Working with **LangGraph, A2A protocol, LLM orchestration**
+- Building **[agentns](https://github.com/DataWorksAI-com/Dynamic-aiagent-naming-service)** — open-source service discovery sidecar for AI agents. Think DNS, but for multi-agent systems
+- Built **MBTA Transit Conversational Intelligence** — three specialized AI agents (Alerts, Trip Planner, Stop Finder) coordinated by a LangGraph orchestrator, deployed across cloud servers with service discovery
+- Currently converting the MBTA system into a **skill for Claude** (clawbot)
 - Open to collaborating on agentic AI, LLM infra, and real-world ML systems
 
 ---
@@ -55,7 +52,7 @@ stack = {
 
 ---
 
-### Featured Project
+### Featured Projects
 
 **[agentns](https://github.com/DataWorksAI-com/Dynamic-aiagent-naming-service)** — Agent Name Service  
 Service discovery for multi-agent AI systems. Agents register, orchestrators resolve. Health-aware, geo-routed, protocol-agnostic.
@@ -63,6 +60,9 @@ Service discovery for multi-agent AI systems. Agents register, orchestrators res
 ```bash
 docker run -p 8200:8200 manikandan3110/agentns:latest
 ```
+
+**MBTA Transit Conversational Intelligence**  
+Real-time Boston transit assistant powered by three coordinated AI agents. Ask about delays, plan trips, or find stops — all handled autonomously via a LangGraph orchestrator with live MBTA data.
 
 ---
 
