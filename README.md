@@ -15,8 +15,8 @@
 Graduate student at **Northeastern University**, Boston — building real infrastructure for multi-agent AI systems. Not just prototyping, actually deploying, scaling, and making agents talk to each other reliably.
 
 - Studying **AI & ML** at Northeastern
-- Building **[agentns](https://github.com/DataWorksAI-com/Dynamic-aiagent-naming-service)** — open-source service discovery sidecar for AI agents. Think DNS, but for multi-agent systems
-- Built **MBTA Transit Conversational Intelligence** — three specialized AI agents (Alerts, Trip Planner, Stop Finder) coordinated by a LangGraph orchestrator, deployed across cloud servers with service discovery
+- Building **[agentns](https://github.com/DataWorksAI-com/Dynamic-aiagent-naming-service)** - open-source service discovery sidecar for AI agents. Think DNS, but for multi-agent systems
+- Built **MBTA Transit Conversational Intelligence** - three specialized AI agents (Alerts, Trip Planner, Stop Finder) coordinated by a LangGraph orchestrator, deployed across cloud servers with service discovery
 - Currently converting the MBTA system into a **skill for Claude** (clawbot)
 - Open to collaborating on agentic AI, LLM infra, and real-world ML systems
 
