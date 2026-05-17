@@ -56,9 +56,6 @@ stack = {
 **[agentns](https://github.com/DataWorksAI-com/Dynamic-aiagent-naming-service)** — Agent Name Service  
 Service discovery for multi-agent AI systems. Agents register, orchestrators resolve. Health-aware, geo-routed, protocol-agnostic.
 
-```bash
-docker run -p 8200:8200 manikandan3110/agentns:latest
-```
 
 **MBTA Transit Conversational Intelligence**  
 Real-time Boston transit assistant powered by three coordinated AI agents. Ask about delays, plan trips, or find stops — all handled autonomously via a LangGraph orchestrator with live MBTA data.
